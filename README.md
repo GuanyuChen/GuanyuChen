@@ -3,10 +3,10 @@
 
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/GuanyuChen/count.svg">
+<!-- <img src="https://profile-counter.glitch.me/GuanyuChen/count.svg"> -->
 
 - 🔭 FrontEnd Developer
-- 🌱 currently learning Node.js, TypeScript, React, Vite ...
+- 🌱 currently learning `Node.js`, `React`, `TypeScript`, `Vite` ...
 - 🥇 [掘金个人主页](https://juejin.cn/user/4063433943168343)
 
 
